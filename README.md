@@ -35,7 +35,3 @@ The dataset is loaded directly using scikit-learn.
 
 # Conclusion
 The Decision Tree and K-Nearest Neighbors models both achieved an accuracy of 93.33% on the test dataset. Each model correctly classified 28 out of 30 flowers. Neither model performed better in terms of accuracy on this test set. This project helped me understand how different machine learning algorithms can achieve similar results despite using different classification methods.
-
-
-[State which model performed better on the test set and
-summarize what you learned from the project.]
